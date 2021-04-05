@@ -1,5 +1,5 @@
 body{
-    background-image: url("../imagenes/woman-1283009_1280.jpg");
+    background-image: url("../woman-1283009_1280.jpg");
     background-size: cover;
 }
 head{
@@ -32,7 +32,7 @@ head{
     float: left;
 }
 .logo{
-    background-image: url("../imagenes/Siena\ Antiguo\ Soldado\ Vintage\ Portada\ de\ Libro.png");
+    background-image: url("../Siena\ Antiguo\ Soldado\ Vintage\ Portada\ de\ Libro.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 80%;
@@ -57,7 +57,7 @@ float: left;
     width: 40%;
     height: 280px;
     margin-left: 20px;
-    background-image: url("../imagenes/barroco.jpg");
+    background-image: url("../barroco.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 5px;
@@ -123,7 +123,7 @@ float: left;
     width: 40%;
     height: 280px;
     margin-left:750px;
-    background-image: url("../imagenes/clasismo.jpg");
+    background-image: url("../clasismo.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 150px;
@@ -198,7 +198,7 @@ float: left;
     width: 40%;
     height: 280px;
     margin-left: 20px;
-    background-image: url("../imagenes/Romanticismo.jpg");
+    background-image: url("../Romanticismo.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 90px;
@@ -276,7 +276,7 @@ float: left;
     width: 40%;
     height: 240px;
     margin-left:800px;
-    background-image: url("../imagenes/postimpresionismo.jpg");
+    background-image: url("../postimpresionismo.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 240px;
@@ -354,7 +354,7 @@ float: left;
     width: 60%;
     height: 430px;
     margin-left: 90px;
-    background-image: url("../imagenes/arte-renacentista-e1571802362634.jpg");
+    background-image: url("../arte-renacentista-e1571802362634.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 200px;
