@@ -1,1 +1,1 @@
-<li><a href="Galeriaarte.html"></a></li>
+<li><a href="Galeriaarte.html">Galeria</a></li>
