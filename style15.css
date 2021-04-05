@@ -1,0 +1,221 @@
+body{
+    background-image: url("../imagenes/background-1014963_1280.jpg");
+    background-size: cover;
+}
+head{
+    background-color:crimson;
+    height: 100px;
+    float: left;
+}
+.header{
+    background-color:darkgreen;
+    height: 10px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.contenedortl{
+    background-color:goldenrod;
+    width: 100%;
+    height: 100px;
+    margin-top: 0px;
+    position: relative;
+    float: left;
+}
+.logo{
+    background-image: url("../imagenes/Siena\ Antiguo\ Soldado\ Vintage\ Portada\ de\ Libro.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.titulop{
+background-color:0;
+color:maroon;
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+margin-left: 60px;
+float: left;
+}
+.main{
+    
+    background-color: 0;
+}
+.cont{
+    width: 80%;
+    height: 510px;
+    margin-left: 20px;
+    background-image: url("../imagenes/miguel\ angel.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    border-radius: 50px;
+    float: left;
+}
+p{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 75%;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.Obras{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 75%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cont1{
+    width: 40%;
+    height: 220px;
+    margin-left: 20px;
+    background-image: url("../imagenes/centauromaquia.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 900px;
+    border-radius: 50px;
+    float: left;
+}
+.Obra1{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 260px;
+    float: left;
+}
+.cont2{
+    width: 40%;
+    height: 250px;
+    margin-left: 60px;
+    background-image: url("../imagenes/la-piedad.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 900px;
+    border-radius: 50px;
+    float: left;
+}
+.Obra2{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 270px;
+}
+.cont3{
+    width: 40%;
+    height: 250px;
+    margin-left: 20px;
+    background-image: url("../imagenes/david.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.Obra3{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 220px;
+    float: left;
+}
+.cont4{
+    width: 40%;
+    height: 250px;
+    margin-left: 80px;
+    background-image: url("../imagenes/tondo-doni-cke.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.Obra4{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 270px;
+    float: left;
+}
+.cont5{
+    width: 40%;
+    height: 250px;
+    margin-left: 50px;
+    background-image: url("../imagenes/tumulo-de-julio-ii-0-cke.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.Obra5{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 220px;
+    float: left;
+}
+.cont6{
+    width: 40%;
+    height: 250px;
+    margin-left: 120px;
+    background-image: url("../imagenes/moises-cke.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.Obra6{
+    background-color:0;
+    color:darkred;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 200px;
+    float: left;
+}
+nav{
+    background-color:goldenrod;
+    float:right;
+}
+ul{
+    background-color:0;
+}
+li{
+    background-color:0;
+    margin-top: 0px;
+    display: inline;
+}
+a{
+    color: black;
+    font-size: 30px;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-right: 60px;
+    
+}
